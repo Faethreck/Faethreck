@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Patricio Rousseau, sound engineer who builds software. A waveform that turns into lines of code." width="100%">
+  <img src="assets/banner-light.svg" alt="Patricio Rousseau, sound engineer and software founder. A thin audio waveform moving across the banner." width="100%">
 </picture>
 
 I'm a sound engineer and the founder of [Prinvo](https://prinvo.net), a software company in Chile. I spent years mixing, mastering and designing audio plugins and pedals. Today I build and run business software end to end, and I'm moving into applied machine learning for audio.
