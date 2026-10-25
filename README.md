@@ -12,6 +12,11 @@ I'm a sound engineer and the founder of [Prinvo](https://prinvo.net), a software
 
 Most of my work lives in private repositories for clients. I'm happy to walk you through it.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Faethreck/Faethreck/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Faethreck/Faethreck/output/snake-light.svg" alt="Animated snake eating the squares of Patricio's GitHub contribution graph" width="100%">
+</picture>
+
 <p>
   <a href="https://prinvo.net"><img src="https://img.shields.io/badge/prinvo.net-2247A6?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: prinvo.net"></a>
   <a href="https://www.linkedin.com/in/patricio-rousseau-17266a240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn: Patricio Rousseau"></a>
