@@ -8,7 +8,7 @@ I'm a sound engineer and the founder of [Prinvo](https://prinvo.net), a software
 - **Building now:** Prinvo ERP, with electronic invoicing for Chile's tax authority (SII), inventory and receivables for small businesses, in production. Logi, QR-based inventory for schools on Windows, macOS, iOS and Android.
 - **Audio:** mixing and mastering for vinyl and streaming, Dolby Atmos certified, live sound and streaming for events in Berlin (Etikett Radio, XJAZZ Festival).
 - **Learning:** applied ML for audio, from PyTorch fundamentals to small language models and spectrogram-based classifiers.
-- **Stack:** TypeScript, Next.js, Node.js, PostgreSQL, SQLite, Python · Ableton Live
+- **Stack:** TypeScript, Next.js, Node.js, PostgreSQL, SQLite, Python · Pro Tools, Logic Pro, Ableton Live
 
 Most of my work lives in private repositories for clients. I'm happy to walk you through it.
 
